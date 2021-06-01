@@ -1,0 +1,8 @@
+.jumbotronImg{
+    background-image: url(https://lh3.googleusercontent.com/proxy/SjBOuApERpWckW9ciEs6PrAwdjNOsX4BJl1ZfTuJQKySLubsgQp6suy888d3ydmoeoF8FQJXj2ZKrBU2SCvYUfyuBQbmEU8);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .text{
+      background-color: rgba(73, 124, 179, 0.235);
+  }
